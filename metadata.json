@@ -1,0 +1,6 @@
+{
+  "name": "HSE SYSTEM",
+  "description": "Health, Safety & Environment Management System for Industrial Document Control & QR Code Equipment Inspection.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
